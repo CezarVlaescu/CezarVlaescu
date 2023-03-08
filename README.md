@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and C#.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CezarVlaescu/Pycharm---Python-Code](https://github.com/CezarVlaescu/Pycharm---Python-Code)
+- 👨‍💻 All of my projects are available at [https://github.com/CezarVlaescu/Pycharm---Python-Code](https://github.com/CezarVlaescu)
 
 - 📫 How to reach me **vlaescucezar123@gmail.com**
 
