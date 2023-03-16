@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and C#.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CezarVlaescu](https://github.com/CezarVlaescu)
+- 👨‍💻 My portofolio [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
 
 - 📫 How to reach me **vlaescucezar123@gmail.com**
 
