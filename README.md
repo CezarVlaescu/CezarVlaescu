@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and C#.**
 
-- 👨‍💻 My portofolio **[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html) (in dev)**
+- 👨‍💻 My portfolio **[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html) (in dev)**
 
 - 📫 How to reach me **vlaescucezar123@gmail.com**
 
