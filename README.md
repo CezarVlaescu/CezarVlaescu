@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vlaescu Cezar ^_^</h1>
 <h3 align="center">A passionate back-end developer at the beginning of the road in IT 👨‍💻.</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif?cid=ecf05e473dnedirbt8ncx2kiq3bxkz6mr9btoxbc48z3ayqf&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTg3ZTc5NWZiZWM0MzNhNGU1YzIyNzViYjlmOTc1Y2ZjMDE1MWM3ZSZjdD1z/jdPMeyv9rn0hZHh8n9/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cezarvlaescu&label=Profile%20views&color=0e75b6&style=flat" alt="cezarvlaescu" /> </p>
 
