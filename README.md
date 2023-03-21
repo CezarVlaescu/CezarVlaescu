@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and C#.**
 
-- 👨‍💻 My portfolio **[https://cezarvlaescu-portfolio-website.netlify.app/](https://cezarvlaescu-portfolio-website.netlify.app/)**
+- 👨‍💻 My portfolio **[https://vlaescu-cezar-portfolio.netlify.app/](https://vlaescu-cezar-portfolio.netlify.app/)**
 
 - 📫 How to reach me **vlaescucezar123@gmail.com**
 
