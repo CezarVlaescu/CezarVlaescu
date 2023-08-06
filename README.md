@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cezarvlaescu&label=Profile%20views&color=0e75b6&style=flat" alt="cezarvlaescu" /> </p>
 
-- 🌱 I’m currently seeking a full time opportunity**
+- 🌱 Arobs Transilvania Intern -> Fullstack Developer soon**
 
 - 👨‍💻 My portfolio **[https://portfolio-vlaescu-cezar.netlify.app/](https://portfolio-vlaescu-cezar.netlify.app/)**
 
