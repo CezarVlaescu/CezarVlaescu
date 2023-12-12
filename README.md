@@ -6,7 +6,7 @@
 
 - 🌱 Fullstack Developer 
 
-- 👨‍💻 My portfolio **[[https://portfolio-vlaescu-cezar.netlify.app/](https://vlaescu-cezar-portfolio.netlify.app/)]
+- 👨‍💻 My portfolio **[https://portfolio-vlaescu-cezar.netlify.app/](https://vlaescu-cezar-portfolio.netlify.app/)
 
 - 📫 How to reach me **vlaescucezar123@gmail.com**
 
