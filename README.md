@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cezarvlaescu&label=Profile%20views&color=0e75b6&style=flat" alt="cezarvlaescu" /> </p>
 
-- 🌱 Fullstack Developer 
+- 🌱 Fullstack Developer at SoftPeakDigital SRL 
 
 - 👨‍💻 My portfolio **[https://portfolio-vlaescu-cezar.netlify.app/](https://vlaescu-cezar-portfolio.netlify.app/)
 
